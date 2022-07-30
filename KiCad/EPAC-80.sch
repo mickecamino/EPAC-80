@@ -5,8 +5,8 @@ $Descr A2 23386 16535
 encoding utf-8
 Sheet 1 1
 Title "EPAC-80"
-Date "2022-07-29"
-Rev "0.1"
+Date "2022-07-30"
+Rev "0.2"
 Comp "CONITEC"
 Comment1 "Created by Mikael Karlsson - 2022"
 Comment2 ""
