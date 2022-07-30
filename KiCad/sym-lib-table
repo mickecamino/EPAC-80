@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EPAC-80)(type Legacy)(uri ${KIPRJMOD}/EPAC-80.lib)(options "")(descr ""))
+)
